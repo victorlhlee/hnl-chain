@@ -12,3 +12,6 @@ building api
 npm i express --save
 
 body parser middleware
+
+websockets
+npm 1 ws --save
