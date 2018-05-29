@@ -14,4 +14,7 @@ npm i express --save
 body parser middleware
 
 websockets
-npm 1 ws --save
+npm i ws --save
+
+generate public private keys module
+npm i elliptic --save
